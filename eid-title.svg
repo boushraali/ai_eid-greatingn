@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <style>
+    .title { font-family: Tahoma, Arial, sans-serif; font-weight: 700; fill: #ffffff; direction: rtl; unicode-bidi: bidi-override; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent"/>
+  <text x="50%" y="120" text-anchor="middle" class="title" font-size="132">عادت</text>
+  <text x="50%" y="255" text-anchor="middle" class="title" font-size="132">أعيادكم</text>
+</svg>
